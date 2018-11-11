@@ -1,0 +1,5 @@
+nama = input('MASUKAN NAMA ANDA')
+usia = input('MASUKAN USIA ANDA')
+print(nama)
+print(usia)
+print('Nama{}, Usia{} tahun'.format(nama,usia))
